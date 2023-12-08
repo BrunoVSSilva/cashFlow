@@ -1,16 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500&display=swap');
 
 body{
-    background-image: url("/img/bg_waves.svg");
-    background-color: #182847;
+    background-image: url("../img/bg_waves.svg");
     background-position: center;
     background-repeat: no-repeat;
 }
 
-.bg-darkblue{
-    background-color: #182847;
-    
-}
 .text-highlight-color{
     color: #1D94D8;
 }
